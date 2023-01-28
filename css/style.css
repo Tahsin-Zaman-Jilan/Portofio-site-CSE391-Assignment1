@@ -1,0 +1,58 @@
+body{
+    background-color: #EAF6F6;
+}
+
+h1{
+color: #66BFBF;
+}
+h3{
+
+    color: #66BFBF;
+}
+
+hr{
+    border-style: none;
+    border-top-style:dotted ;
+    border-color: gray;
+    width: 5%;
+    border-width: 5px;
+    
+    
+     }
+
+.football img{
+    width: 300px;
+    height: auto;
+}  
+
+.SkillTable td,th{
+    border:1px solid black;
+}
+#LastChange{
+
+    color: red;
+}
+hr{
+    color: blue;
+    size: 3px;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+  }
+
+
+.table{
+    border-spacing: 30px;
+    padding: 20px;
+}
+img{
+    padding: 20px;
+}
+
+
+
+
